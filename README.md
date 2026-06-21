@@ -19,6 +19,7 @@ Os códigos e projetos deste repositório refletem uma progressão de complexida
 *   **Linguagem:** C#
 *   **Plataforma:** .NET
 *   **IDE:** Visual Studio
+*   **Banco:** MySQL
 
 ---
 *Desenvolvido por [@romerac](https://www.github.com/romerac) como parte do portfólio acadêmico e profissional.*
