@@ -1,27 +1,24 @@
 ![Logo](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/212/2024/09/logo_fatec_sorocaba.png)
 
-# Linguagem de Programação 2 utilizando a linguagem C#
+# 💻 Linguagem de Programação II | C# & .NET
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-Este repositório contém os exercícios, atividades e projetos desenvolvidos na disciplina de **Linguagem de Programação 2 (LP2)** utilizando a linguagem **C#**, cursada no 4º semestre da **FATEC Sorocaba**.
+Bem-vindo ao meu repositório dedicado à disciplina de **Linguagem de Programação II**, parte da grade do curso de Análise e Desenvolvimento de Sistemas da **FATEC Sorocaba**.
 
-Durante a disciplina, são desenvolvidos programas e estudos práticos com foco na construção de aplicações modulares, aprofundamento em orientação a objetos e exploração do ecossistema .NET, utilizando boas práticas de programação e modelagem de software.
+Neste espaço, documento minha jornada de aprendizado e evolução na linguagem **C#** e no ecossistema **.NET**. O foco principal desta matéria é expandir a base da lógica de programação para o desenvolvimento de soluções mais robustas, unindo os pilares da Orientação a Objetos com a criação de aplicações funcionais.
 
-Este repositório serve como registro acadêmico das atividades realizadas ao longo do semestre e como material de estudo e consulta futura de conceitos estruturais de C#.
+### 🚀 O que você encontrará por aqui?
+Os códigos e projetos deste repositório refletem uma progressão de complexidade, indo desde conceitos estruturais de back-end até a construção de aplicações com interface gráfica. As principais áreas exploradas incluem:
 
-## Objetivos:
+*   **Aprofundamento em POO com C#:** Aplicação prática de encapsulamento, herança, polimorfismo, classes abstratas e interfaces.
+*   **Manipulação de Dados:** Uso de coleções, listas genéricas e estruturas de controle para gerenciamento eficiente de informações em memória.
+*   **Desenvolvimento de Interfaces (GUI):** Construção de aplicações desktop (Windows Forms), conectando a lógica de negócio estruturada no back-end com a experiência do usuário final.
+*   **Boas Práticas:** Foco em modularidade, separação de responsabilidades e escrita de código limpo e reaproveitável.
 
-O objetivo da disciplina é aplicar conceitos avançados de programação e consolidar o paradigma orientado a objetos, como:
+### 🛠️ Stack Tecnológico
+*   **Linguagem:** C#
+*   **Plataforma:** .NET
+*   **IDE:** Visual Studio
 
-- Classes e Objetos
-- Encapsulamento
-- Herança
-- Polimorfismo
-- Abstração e Interfaces
-- Associação Binária e Relacionamento entre classes
-- Criação de GUIs (Windows Forms / WPF)
-- Organização e reutilização de código
-
-## Autores
-
-- [@romerac](https://www.github.com/romerac)
+---
+*Desenvolvido por [@romerac](https://www.github.com/romerac) como parte do portfólio acadêmico e profissional.*
